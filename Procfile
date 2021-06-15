@@ -1,1 +1,1 @@
-web: java -jar target/swapispringboot.jar
+web: java -jar target/swapispringboot-0.0.1-SNAPSHOT.war
