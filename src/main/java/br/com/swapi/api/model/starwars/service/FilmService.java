@@ -22,7 +22,7 @@ public class FilmService implements Constants{
 	
 
 	/**
-	 * Serviço que retorna a lista de filmes
+	 * ServiÃ§o que retorna a lista de filmes
 	 * @return
 	 * @throws FilmException 
 	 */
@@ -39,7 +39,7 @@ public class FilmService implements Constants{
 		    return mapper.readValue(EntityUtils.toString(resp.getEntity()),ReturnService.class);
 			
 		} catch (IOException e) {
-			 throw new FilmException("Erro ao invocar o serviço de listar Filmes",e);
+			 throw new FilmException("Erro ao invocar o serviÃ§o de listar Filmes",e);
 		}
 		
 
