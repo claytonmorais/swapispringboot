@@ -6,7 +6,7 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * Classe Abstrata de Teste para carregar informações do Springboot
+ * Classe Abstrata de Teste para carregar informaÃ§Ãµes do Springboot
  *  
  * @author Clayton Morais de Oliveira
  *
